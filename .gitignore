@@ -1,0 +1,4 @@
+*.pyc
+venv/
+.pulumi/
+__pycache__/
